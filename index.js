@@ -130,7 +130,7 @@ console.log('Unique names:', filteredArr);
 
 */
 // Counter Program
-
+/*
 const decreaseBtn = document.getElementById('decreaseBtn');
 const increaseBtn = document.getElementById('increaseBtn');
 const resetBtn = document.getElementById('resetBtn');
@@ -145,3 +145,4 @@ decreaseBtn.onClick = function (){
     count--;
     countLabel.textContent = count;
 }
+    */
